@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hello there 👋
+<br>
+I'm a Product Manager nurturing my curiosity about all things tech while exploring the wonderful world of programming.
+<br>
+
+<br> 🔭 I’m currently working on some fun projects.
+<br> 🌱 I’m currently deep diving into JavaScript, learning API development, and levelling up my SQL skills.
+<br> 📫 How to reach me: Find me on [LinkedIn](https://www.linkedin.com/in/amandaacolatse/)!
+<br> 🍵 Fun fact: I love herbal remedies & blending my own teas. 
 
 <!--
 **ae-aco/ae-aco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
