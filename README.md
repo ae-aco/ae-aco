@@ -1,12 +1,11 @@
 ## Hello there 👋
-<br>
 I'm a Product Manager nurturing my curiosity about all things tech while exploring the wonderful world of programming.
 <br>
 
-<br> 🔭 I’m currently working on some fun projects.
-<br> 🌱 I’m currently deep diving into JavaScript, learning API development, and levelling up my SQL skills.
-<br> 📫 How to reach me: Find me on [LinkedIn](https://www.linkedin.com/in/amandaacolatse/)!
-<br> 🍵 Fun fact: I love herbal remedies & blending my own teas. 
+<br> 🔭 Working on some fun projects to sharpen my product and technical skills.
+<br> 🌱 Deep diving into JavaScript, learning API development, and levelling up my SQL skills.
+<br> 📫 Let's connect on [LinkedIn](https://www.linkedin.com/in/amandaacolatse/)!
+<br> 🛠️ Tools I’ve worked with: JavaScript, SQL, REST APIs, Notion, Figma, Jira, Confluence, GitHub, Slack, Bruno
 
 <!--
 **ae-aco/ae-aco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
