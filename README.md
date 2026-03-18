@@ -1,6 +1,5 @@
 ## Hello there 👋
-I’m a Product Manager nurturing my curiosity about tech through creative, hands-on projects.
-<br> 🔭 I’m working on projects that sharpen both my product thinking and technical skills.
+I’m a Product Manager with a hands-on approach to tech, I enjoy building projects that sharpen both my product thinking and technical skills.
 <br> 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/amandaacolatse/)!
 
 <!--
